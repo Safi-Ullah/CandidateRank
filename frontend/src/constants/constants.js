@@ -1,6 +1,6 @@
 import { API_BASE_PATH } from './config';
 
-const BASE_ROUTE = '/';
+export const BASE_ROUTE = '/';
 
 export const ROUTE_URLS = {
     login: `${BASE_ROUTE}login`,
